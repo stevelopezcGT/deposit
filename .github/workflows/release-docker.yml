@@ -10,7 +10,7 @@ on:
  
 env:
   DOCKER_HUB_USER: ${{ secrets.DOCKER_HUB_USER }}
-  DOCKER_IMAGE_NAME: msaccount
+  DOCKER_IMAGE_NAME: ms-test
   TOKEN: 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
  
  
